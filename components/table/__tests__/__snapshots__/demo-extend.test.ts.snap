@@ -867,7 +867,7 @@ exports[`renders components/table/demo/colspan-rowspan.tsx extend context correc
 exports[`renders components/table/demo/component-token.tsx extend context correctly 1`] = `
 Array [
   <form
-    class="ant-form ant-form-inline components-table-demo-control-bar"
+    class="ant-form ant-form-inline table-demo-control-bar"
     style="margin-bottom: 16px;"
   >
     <div
@@ -4996,7 +4996,7 @@ exports[`renders components/table/demo/drag-sorting-handler.tsx extend context c
 exports[`renders components/table/demo/dynamic-settings.tsx extend context correctly 1`] = `
 Array [
   <form
-    class="ant-form ant-form-inline components-table-demo-control-bar"
+    class="ant-form ant-form-inline table-demo-control-bar"
     style="margin-bottom: 16px;"
   >
     <div
@@ -18923,7 +18923,7 @@ exports[`renders components/table/demo/narrow.tsx extend context correctly 2`] =
 exports[`renders components/table/demo/nest-table-border-debug.tsx extend context correctly 1`] = `
 Array [
   <form
-    class="ant-form ant-form-inline components-table-demo-control-bar"
+    class="ant-form ant-form-inline table-demo-control-bar"
     style="margin-bottom: 16px;"
   >
     <div
@@ -19628,7 +19628,7 @@ Array [
                                               <a
                                                 class="ant-dropdown-trigger"
                                               >
-                                                More 
+                                                More
                                                 <span
                                                   aria-label="down"
                                                   class="anticon anticon-down"
@@ -19788,7 +19788,7 @@ Array [
                                               <a
                                                 class="ant-dropdown-trigger"
                                               >
-                                                More 
+                                                More
                                                 <span
                                                   aria-label="down"
                                                   class="anticon anticon-down"
@@ -19948,7 +19948,7 @@ Array [
                                               <a
                                                 class="ant-dropdown-trigger"
                                               >
-                                                More 
+                                                More
                                                 <span
                                                   aria-label="down"
                                                   class="anticon anticon-down"
@@ -20509,7 +20509,7 @@ Array [
                                               <a
                                                 class="ant-dropdown-trigger"
                                               >
-                                                More 
+                                                More
                                                 <span
                                                   aria-label="down"
                                                   class="anticon anticon-down"
@@ -20669,7 +20669,7 @@ Array [
                                               <a
                                                 class="ant-dropdown-trigger"
                                               >
-                                                More 
+                                                More
                                                 <span
                                                   aria-label="down"
                                                   class="anticon anticon-down"
@@ -20829,7 +20829,7 @@ Array [
                                               <a
                                                 class="ant-dropdown-trigger"
                                               >
-                                                More 
+                                                More
                                                 <span
                                                   aria-label="down"
                                                   class="anticon anticon-down"
@@ -21390,7 +21390,7 @@ Array [
                                               <a
                                                 class="ant-dropdown-trigger"
                                               >
-                                                More 
+                                                More
                                                 <span
                                                   aria-label="down"
                                                   class="anticon anticon-down"
@@ -21550,7 +21550,7 @@ Array [
                                               <a
                                                 class="ant-dropdown-trigger"
                                               >
-                                                More 
+                                                More
                                                 <span
                                                   aria-label="down"
                                                   class="anticon anticon-down"
@@ -21710,7 +21710,7 @@ Array [
                                               <a
                                                 class="ant-dropdown-trigger"
                                               >
-                                                More 
+                                                More
                                                 <span
                                                   aria-label="down"
                                                   class="anticon anticon-down"
@@ -26170,7 +26170,7 @@ exports[`renders components/table/demo/row-selection-custom-debug.tsx extend con
                     class="ant-table-cell ant-table-selection-column"
                     rowspan="2"
                   >
-                    false: 
+                    false:
                     <label
                       class="ant-checkbox-wrapper"
                     >
@@ -26211,7 +26211,7 @@ exports[`renders components/table/demo/row-selection-custom-debug.tsx extend con
                     class="ant-table-cell ant-table-selection-column"
                     rowspan="2"
                   >
-                    false: 
+                    false:
                     <label
                       class="ant-checkbox-wrapper"
                     >
@@ -26252,7 +26252,7 @@ exports[`renders components/table/demo/row-selection-custom-debug.tsx extend con
                     class="ant-table-cell ant-table-selection-column"
                     rowspan="2"
                   >
-                    false: 
+                    false:
                     <label
                       class="ant-checkbox-wrapper"
                     >
@@ -26293,7 +26293,7 @@ exports[`renders components/table/demo/row-selection-custom-debug.tsx extend con
                     class="ant-table-cell ant-table-selection-column"
                     rowspan="2"
                   >
-                    false: 
+                    false:
                     <label
                       class="ant-checkbox-wrapper"
                     >
@@ -26334,7 +26334,7 @@ exports[`renders components/table/demo/row-selection-custom-debug.tsx extend con
                     class="ant-table-cell ant-table-selection-column"
                     rowspan="2"
                   >
-                    false: 
+                    false:
                     <label
                       class="ant-checkbox-wrapper"
                     >
@@ -31540,7 +31540,7 @@ Array [
     <div
       class="ant-space-item"
     >
-      CheckStrictly: 
+      CheckStrictly:
     </div>
     <div
       class="ant-space-item"
@@ -31851,7 +31851,7 @@ Array [
     <div
       class="ant-space-item"
     >
-      Fixed first column: 
+      Fixed first column:
     </div>
     <div
       class="ant-space-item"
